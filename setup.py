@@ -4,7 +4,7 @@ setup(
     name="cli-games-hnd68",  # pip install name
     version="0.1.0",
     description="Fun CLI games: Number Guessing Duel, Math Quiz Duel, Typing Speed Race",
-    author="Your Name",
+    author="Wai Phyo Aung",
     author_email="info@waiphyoaung.dev",
     url="https://github.com/Orgpg/CLI-Game",
     packages=find_packages(),
