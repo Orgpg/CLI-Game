@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cli-games-hnd68",  # pip install name
-    version="0.1.0",
+    name="CLI-Game",  # pip install name
+    version="0.1.1",
     description="Fun CLI games: Number Guessing Duel, Math Quiz Duel, Typing Speed Race",
     author="Wai Phyo Aung",
     author_email="info@waiphyoaung.dev",
