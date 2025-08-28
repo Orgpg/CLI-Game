@@ -1,3 +1,11 @@
+### Install CLI Game
+
+```bash
+pip install git+https://github.com/Orgpg/CLI-Game
+
+```
+
+
 ***🎮 Number Guessing Duel 🎮***  
 
 ![Number Guessing Duel](images/number_guessing.png)  
